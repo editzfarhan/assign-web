@@ -30,7 +30,7 @@ const Footer = () => {
     <div>
         <h3 className='text-lg font-bold text-white mb-4'>contact us</h3>
         <p>email <a href="/.mail@gmail.com">farhaneditz24525@gmail.com</a></p>
-        <p>phone: <span className='hover:text-white'>03106982611</span></p>
+        <p>phone: <span className='hover:text-white'>03017611852</span></p>
     </div>
     </div>
      <p className='flex justify-center p-2'> Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
